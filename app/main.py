@@ -103,6 +103,13 @@ def clean_proxy_line(line):
             break
     return line
 
+def get_metadata_headers():
+    return """#profile-title: base64:8J+GkyBUZWxlZ3JhbTogQFByb3hpZnlURyDim5PvuI/igI3wn5Kl
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/74647/Proxify
+#profile-web-page-url: https://github.com/74647/Proxify\n\n"""
+
 def organize_configs(configs):
     protocol_map = {
         'vmess': [],
@@ -141,18 +148,22 @@ def organize_configs(configs):
 
 def save_protocol_files(protocol_map):
     ensure_directory_exists('v2ray_configs/seperated_by_protocol')
+    metadata = get_metadata_headers()
     
     for protocol, configs in protocol_map.items():
         if configs:
             with open(f'v2ray_configs/seperated_by_protocol/{protocol}.txt', 'w') as f:
+                f.write(metadata)
                 f.write('\n'.join(configs) + '\n')
 
 def save_subscription_files(configs, chunk_size=500):
     ensure_directory_exists('v2ray_configs/mixed')
+    metadata = get_metadata_headers()
     
     for i in range(0, len(configs), chunk_size):
         chunk = configs[i:i + chunk_size]
         with open(f'v2ray_configs/mixed/subscription-{i//chunk_size + 1}.txt', 'w') as f:
+            f.write(metadata)
             f.write('\n'.join(chunk) + '\n')
 
 def get_proxy(proxy_type):
