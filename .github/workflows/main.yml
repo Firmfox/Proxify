@@ -1,0 +1,32 @@
+name: Updare Proxies every 30 Minutes
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" 
+  workflow_dispatch:       
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r app/requirements.txt
+
+      - name: Run Python script
+        run: python app/main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add data2.json
+          git commit -m "🔄 Auto update proxies"
+          git push
