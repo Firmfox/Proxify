@@ -147,9 +147,9 @@ https://raw.githubusercontent.com/74647/proxify/main/proxies/http.txt
 ```bash
 https://raw.githubusercontent.com/74647/proxify/main/proxies/https.txt
 ```
-## 🛠️ How to Use Proxify
+## How to Use Proxify 🛠️
 
-### 📲 V2Ray Clients Setup
+### V2Ray Clients Setup 📲
 
 #### Recommended Clients by Platform:
 
@@ -170,7 +170,7 @@ https://raw.githubusercontent.com/74647/proxify/main/proxies/https.txt
 3. Select a working server from the updated list
 4. Connect and verify your IP has changed
 
-### 🔌 Proxy Configuration Guide
+### Proxy Configuration Guide 🔌
 
 #### Desktop Setup:
 
