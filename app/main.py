@@ -230,6 +230,8 @@ def cleanup_old_files():
             shutil.rmtree(dir_path)
 
 def main():
+    if os.path.basename(os.getcwd()) == 'app':
+        os.chdir('..')
     start_time = time.time()
     cleanup_old_files()
     
