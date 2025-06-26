@@ -108,7 +108,7 @@ def get_metadata_headers():
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
-#profile-web-page-url: https://github.com/74647/Proxify\n\n"""
+#profile-web-page-url: https://github.com/74647/Proxify\n"""
 
 def organize_configs(configs):
     protocol_map = {
