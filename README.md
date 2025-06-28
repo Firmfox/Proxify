@@ -1,10 +1,19 @@
-[![proxify4.png](https://i.postimg.cc/sfNHtQ0f/proxify4.png)](https://postimg.cc/fkYvdLN1)
-# Proxify 🔄🔗
+[![New-Project.png](https://i.postimg.cc/J4Hw29nn/New-Project.png)](https://74647.github.io/Proxify-PWA/)
 
-Automated proxy and V2Ray configuration scraper that collects fresh SOCKS4, SOCKS5, HTTP/HTTPS proxies, MTProto (Telegram), and V2Ray configs from various public sources.
+<div align="center">
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/74647/proxify)
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
+![Active Proxies](https://img.shields.io/badge/proxies-1000%2B-brightgreen)
+![PWA Badge](https://img.shields.io/badge/PWA-optimized-blueviolet?logo=pwa&style=flat)
+![Web Manifest](https://img.shields.io/badge/Web_Manifest-v1.2-success)
+![Uptime Badge](https://img.shields.io/badge/Uptime-99.9%2525-brightgreen)
+
+</div>
+
+#
+
+Automated proxy configuration tool that collects fresh SOCKS4, SOCKS5, HTTP/HTTPS proxies, MTProto (Telegram), and V2Ray configs from verified public sources. Get working proxies in seconds!
 
 ## Features ✨
 
@@ -102,23 +111,23 @@ https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscri
 ### Protocol-Specific Configs
 
 ```bash
-  https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/vmess.txt
+https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/vmess.txt
 ```
 
 ```bash
-  https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/vless.txt
+https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/vless.txt
 ```
 
 ```bash
-  https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/trojan.txt
+https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/trojan.txt
 ```
 
 ```bash
-  https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/shadowsocks.txt
+https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/shadowsocks.txt
 ```
 
 ```bash
-  https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/other.txt
+https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/other.txt
 ```
 
 ### Telegram Proxy Links
@@ -131,7 +140,7 @@ https://raw.githubusercontent.com/74647/proxify/main/telegram_proxies/mtproto.tx
 https://raw.githubusercontent.com/74647/proxify/main/telegram_proxies/socks5.txt
 ```
  
-### Other Proxy Links
+### Standard Proxy Lists
 
 ```bash
 https://raw.githubusercontent.com/74647/proxify/main/proxies/socks4.txt
@@ -183,18 +192,18 @@ https://raw.githubusercontent.com/74647/proxify/main/proxies/https.txt
 
 **System-Wide Proxy:**
 - Windows:
-  Settings > Network & Internet > Proxy
-Set "Use a proxy server" and enter details
+  - `Settings` > `Network & Internet` > `Proxy`
+  - Set "Use a proxy server" and enter details
 text
 
 - macOS:
-  System Preferences > Network > Advanced > Proxies
-Check SOCKS/HTTP proxy and enter details
+  - `System Preferences` > `Network` > `Advanced` > `Proxies`
+  - Check SOCKS/HTTP proxy and enter details
 text
 
 - Linux (GNOME):
-  Settings > Network > Network Proxy > Manual
-Enter proxy details for each protocol
+  - `Settings` > `Network` > `Network Proxy` > `Manual`
+  - Enter proxy details for each protocol
 text
 
 
@@ -202,27 +211,50 @@ text
 
 **Android:**
 1. Recommended apps:
- - [SocksDroid](https://www.socksdroid.com/)
+    - [SocksDroid](https://www.socksdroid.com/)
 2. Configuration:
- - Import proxy list from `proxies/` folder
- - Enable VPN mode for system-wide proxy
- - Set up per-app proxy rules if needed
+     - Import proxy list from `proxies/` folder
+     - Enable VPN mode for system-wide proxy
+     - Set up per-app proxy rules if needed
 
 **iOS:**
 1. Recommended apps:
- - [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
- - [Potatso](https://apps.apple.com/us/app/potatso-lite/id1239860606)
+   - [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+   - [Potatso](https://apps.apple.com/us/app/potatso-lite/id1239860606)
 2. Configuration:
- - Manual proxy entry with IP:Port
- - Import proxy lists via URL or file sharing
- - Enable in iOS Settings > VPN
+   - Manual proxy entry with IP:Port
+   - Import proxy lists via URL or file sharing
+   - Enable in iOS Settings > VPN
 
-## Contribution 🤝
+## Web App Access 🌍
 
-Contributions are welcome! Feel free to:
+[![image44-psd.png](https://i.postimg.cc/0y9fwwLs/image44-psd.png)](https://74647.github.io/Proxify-PWA/)
+
+### PWA Features 🔨
+- **Cross-platform**: Install on Windows, macOS, Linux, Android, and iOS
+- **Offline mode**: Access recently fetched proxies without internet
+
+### Access Methods 
+
+- #### [Primary PWA endpoint](https://proxify.net/) Unavailable ⚠️
+- #### [GitHub Pages mirror](https://74647.github.io/Proxify-PWA/)
+
+### Installation Guide 💕
+
+| Platform  | Instructions |
+|----------|--------------|
+| **Desktop** | `Chrome/Edge` -> `Visit URL` -> Click <img width="16" src="https://i.postimg.cc/vHh8QRyv/image-psd.png"> in address bar |
+| **Android** | `Chrome` -> `Menu` -> `"Add to Home screen"` |
+| **iOS** | `Safari` -> `Share` -> `"Add to Home Screen"` |
+
+## Contribute & Support 🤝
+
+Help us maintain the best free proxy service:
 
 - **Add** new reliable proxy sources
-
+- **Report** broken sources
+- **Suggest** new features
+- **Share** with privacy-conscious friends
 - **Optimize** performance
 
 ## Disclaimer ⚠️
