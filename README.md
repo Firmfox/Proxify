@@ -226,27 +226,6 @@ text
    - Import proxy lists via URL or file sharing
    - Enable in iOS Settings > VPN
 
-## Web App Access 🌍
-
-[![image44-psd.png](https://i.postimg.cc/0y9fwwLs/image44-psd.png)](https://74647.github.io/Proxify-PWA/)
-
-### PWA Features 🔨
-- **Cross-platform**: Install on Windows, macOS, Linux, Android, and iOS
-- **Offline mode**: Access recently fetched proxies without internet
-
-### Access Methods 
-
-- #### [Primary PWA endpoint](https://proxify.net/) Unavailable ⚠️
-- #### [GitHub Pages mirror](https://74647.github.io/Proxify-PWA/)
-
-### Installation Guide 💕
-
-| Platform  | Instructions |
-|----------|--------------|
-| **Desktop** | `Chrome/Edge` -> `Visit URL` -> Click <img width="16" src="https://i.postimg.cc/vHh8QRyv/image-psd.png"> in address bar |
-| **Android** | `Chrome` -> `Menu` -> `"Add to Home screen"` |
-| **iOS** | `Safari` -> `Share` -> `"Add to Home Screen"` |
-
 ## Contribute & Support 🤝
 
 Help us maintain the best free proxy service:
