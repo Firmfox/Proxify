@@ -3,11 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://4d877e02-e49f-47d3-a542-42b568ceee02@104.18.6.104:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.6.104:443
-vless://d6df6ee1-a37a-42ca-8300-8de01e27d350@151.101.67.8:80?security=none&type=xhttp&host=youmame.global.ssl.fastly.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.67.8:80
-vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@199.34.228.170:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPN#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.170:443
-vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.89:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.89:443
-vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@45.131.209.84:8443?security=tls&sni=jj.wxgqlfx.cn&type=ws&host=jj.wxgqlfx.cn&path=%2FTl%40vlees_v2rayng%3Fed%3D2560&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.209.84:8443
-vless://948f6596-66f9-4707-aa92-3107a214ce53@121.180.99.17:39536?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-121.180.99.17:39536
-vless://b8e4f2c1-7a9b-4d3e-9c2f-3a5d7e9f1b2c@104.21.85.161:443?security=tls&sni=example.com&type=ws&host=example.com&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.161:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.23:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.23:80
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@86.38.214.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram#🔒 VL-WS-NA 🇱🇹 LT-86.38.214.251:8880
+ss://YWVzLTI1Ni1nY206WWpJeE1HTXlNVGN6T0RneFpUY3dPVE00WkdFMU0yRTRNekF5TnpjMg==@37.152.179.151:11107#🔒 SS-TCP-NA 🇮🇷 IR-37.152.179.151:11107
+hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.255:443?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B843%20%7C%20%204.9MB/s%7C48%25%7CNetflix%7CDi...
+trojan://Aimer@92.243.74.180:8443?sni=agepw.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-92.243.74.180:8443
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@195.13.45.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0241
+vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.21.8.59:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.59:443
+vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@104.21.68.100:443?security=tls&sni=m1qqqqqqq.777289.xyz&type=ws&host=m1qqqqqqq.777289.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.68.100:443
+vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@159.246.55.233:8443?security=tls&sni=jj.wxgqlfx.cn&type=ws&host=jj.wxgqlfx.cn&path=%2FTl%40vlees_v2rayng%3Fed%3D2560&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-159.246.55.233:8443
