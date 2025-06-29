@@ -3,10 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-trojan://Aimer@135.84.64.77:2096?sni=epccy.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-135.84.64.77:2096
-trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2096
-vless://f411e405-da5e-47aa-93bb-8454c6f59ae1@104.21.44.185:2053?security=tls&sni=ExPrEssTv.onetWOTHREe123.IR&type=httpupgrade&host=expresstv.onetwothree123.ir&path=%2Fm3PXEz1aEnAZ7wba2GqlkGpBhZ&fp=chrome&alpn=http%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.44.185:2053
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@77.75.199.253:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-77.75.199.253:8880
-vless://68594162-da62-4792-94d5-5102e717f7f6@107.170.5.15:9435?security=none&type=tcp&host=docker.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-107.170.5.15:9435
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.20:8880?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=%2F#🔒 VL-WS-NONE 🇧🇬 BG-147.78.140.20:8880
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSEZ6eGlsWFJmb1Y=@89.23.103.80:443#🔒 SS-TCP-NA 🇳🇱 NL-89.23.103.80:443
+vless://f37ce9a9-2ff2-4bbe-9579-afe170049c8a@143.47.237.215:443?security=reality&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&type=tcp&fp=ios&pbk=qkP2pqQ3NHNBkyzqsC2W9wChp3OfeXdVjOhUv8vQW0o&sid=aac4df9d05a5ba8f#🔒 VL-TCP-RLT 🇬🇧 GB-143.47.237.215:443
+vless://a61d2d34-b60c-4014-95f9-1208dc03b49a@91.99.83.55:31133?type=tcp&host=www.speedtest.net&path=/&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-91.99.83.55:31133
+vless://213d6337-7e90-43cb-b515-e392c946b371@172.64.154.144:443?security=tls&sni=WWW.felafel.org.&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.154.144:443
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?security=none&sni=pqh33v3.cinema33.shop&type=grpc&host=pqh33v3.cinema33.shop#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.149:8880
+vless://8844c4de-22a7-43f2-b98b-195f38309ca3@62.60.157.42:12548?security=none&type=tcp&host=nasa.gov&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-62.60.157.42:12548
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.56.128:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.56.128:443
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.206.12.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-154.206.12.247:8880
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.138:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-192.178.218.138:443
+trojan://Aimer@162.159.137.61:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.137.61:443
+vless://a9bc52a0-7993-4bd8-9326-0330b1a7f698@104.24.249.125:2083?security=tls&sni=8.kongcheng666.dpdns.org&type=ws&host=8.kongcheng666.dpdns.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.249.125:2083
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.254.140.119:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.254.140.119:8880
+vless://4c92d394-7b75-40eb-b039-55016b26d594@173.194.222.107:443?security=tls&sni=google.com&type=ws&host=balaband-npe4fcsgcq-ez.a.run.app&path=%2Fwebmail%2Fse&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-173.194.222.107:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.167:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.167:8880
+trojan://ttfang@139.180.154.158:443?security=tls&type=ws&sni=ttfang.fange.me&path=/&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A592
+vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@141.227.160.21:8880?security=none&type=tcp&host=eN.TwiTtER.cOM.:8880&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-141.227.160.21:8880
+vless://621a5d75-7cfa-4677-8826-c4acec005dcf@104.24.159.174:443?security=tls&sni=vmess.yxxc.cn&type=ws&host=vmess.yxxc.cn&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.159.174:443
+vless://3463166c-8939-4d3f-b439-ad2606e5715c@151.101.202.133:80?security=none&type=xhttp&host=joinbede_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.202.133:80
