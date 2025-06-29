@@ -2,7 +2,7 @@ name: Update Proxies every 30 Minutes
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/60 * * * *'
   workflow_dispatch:
 
 jobs:
