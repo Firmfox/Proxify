@@ -104,11 +104,11 @@ def clean_proxy_line(line):
     return line
 
 def get_metadata_headers():
-    return """#profile-title: base64:8J+GkyBUZWxlZ3JhbTogQFByb3hpZnlURyDim5PvuI/igI3wn5Kl
+    return """#profile-title: base64:8J+GkyBHaXQ6IEBGaXJtZm94IOKbk++4j+KAjfCfkqU=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/74647/Proxify
-#profile-web-page-url: https://github.com/74647/Proxify\n"""
+#support-url: https://github.com/firmfox/Proxify
+#profile-web-page-url: https://github.com/firmfox/Proxify\n"""
 
 def organize_configs(configs):
     protocol_map = {
