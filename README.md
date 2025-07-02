@@ -1,8 +1,8 @@
-[![New-Project.png](https://i.postimg.cc/J4Hw29nn/New-Project.png)](https://74647.github.io/Proxify-PWA/)
+[![New-Project.png](https://i.postimg.cc/J4Hw29nn/New-Project.png)](https://Firmfox.github.io/Proxify-PWA/)
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/74647/proxify)
+![GitHub last commit](https://img.shields.io/github/last-commit/Firmfox/proxify)
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Active Proxies](https://img.shields.io/badge/proxies-1000%2B-brightgreen)
 ![PWA Badge](https://img.shields.io/badge/PWA-optimized-blueviolet?logo=pwa&style=flat)
@@ -29,133 +29,133 @@ Proxify automatically generates and maintains these subscription URLs containing
 ### V2Ray Configuration Files
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-1.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-1.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-2.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-2.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-3.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-3.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-4.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-4.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-5.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-5.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-6.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-6.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-7.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-7.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-8.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-8.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-9.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-9.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-10.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-10.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-11.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-11.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-12.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-12.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-13.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-13.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-14.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-14.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-15.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-15.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-16.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-16.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-17.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-17.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-18.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-18.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-19.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-19.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/mixed/subscription-20.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-20.txt
 ```
 
 ### Protocol-Specific Configs
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/vmess.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/seperated_by_protocol/vmess.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/vless.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/seperated_by_protocol/vless.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/trojan.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/seperated_by_protocol/trojan.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/shadowsocks.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/seperated_by_protocol/shadowsocks.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/v2ray_configs/seperated_by_protocol/other.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/seperated_by_protocol/other.txt
 ```
 
 ### Telegram Proxy Links
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/telegram_proxies/mtproto.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/telegram_proxies/mtproto.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/telegram_proxies/socks5.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/telegram_proxies/socks5.txt
 ```
  
 ### Standard Proxy Lists
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/proxies/socks4.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/proxies/socks4.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/proxies/socks5.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/proxies/socks5.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/proxies/http.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/proxies/http.txt
 ```
 
 ```bash
-https://raw.githubusercontent.com/74647/proxify/main/proxies/https.txt
+https://raw.githubusercontent.com/Firmfox/proxify/main/proxies/https.txt
 ```
 ## How to Use Proxify 🛠️
 
@@ -242,4 +242,4 @@ This tool is for educational purposes only. The maintainers are not responsible 
 
 ## License 📜
 
-![License](https://img.shields.io/github/license/74647/Proxify)
+![License](https://img.shields.io/github/license/Firmfox/Proxify)
