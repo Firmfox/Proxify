@@ -3,52 +3,56 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.107:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0031
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@46.254.93.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#RU_speednode_0150
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.148.106.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0197
-ss://YWVzLTEyOC1nY206U2hhZG93U29ja3MyMDM3@172.67.190.12:443#%E6%9C%AA%E7%9F%A580
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@188.42.88.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#LU_speednode_0128
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@140.99.233.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🇸🇬[openproxylist.com]
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23015?sni=102.yuanul.com#%E6%9C%AA%E7%9F%A5135
-vmess://Aimer@104.25.252.184:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@168.100.6.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#🇸🇬[openproxylist.com]
-ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://Aimer@104.16.56.218:443?sni=epcco.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5125
-trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.46.220:2083?security=tls&type=ws&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv&host=joinmahdiserver-6qj.pages.dev#%E6%9C%AA%E7%9F%A5152
-trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@172.67.171.131:2096?security=tls&type=ws&sni=INvINCiBLE.fAfa20.ShOp&host=invincible.fafa20.shop#%E6%9C%AA%E7%9F%A5170
-hysteria2://3r6PBKy5DX@p1.3dfigures.ir:501?insecure=1&obfs=salamander&obfs-password=Djxsjduwue#%40vpnv2rayNGv%20%232
+vmess://eyJ2IjoiMiIsInBzIjoiNSB8ICAxLjRNQi9zfDAlfFlvdXR1YmV8T3Blbi4uLiIsImFkZCI6ImRlLnZtZXNzLmNvbW5wbWpzLmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2VhYWY2NTMtOTg3NC01OGM2LWIxMDAtMDkyYzAxYTFmNzNkIiwiYWlkIjoiMCIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsImhvc3QiOiJkZS52bWVzcy5jb21ucG1qcy5jb20iLCJ0bHMiOiJ0bHMifQ==
+trojan://Aimer@31.43.179.27:443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#KZ_speednode_0119
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.145:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🇸🇬[openproxylist.com]
+trojan://Aimer@162.159.137.225:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5143
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.65:2377#TW
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy03NjA3Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTA0MjM4MTQ0OTUuMS1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+trojan://xxoo@us.blazeppn.info:443?allowInsecure=0&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E7%BA%BD%E7%BA%A6%E5%B8%82DigitalOcean%E4%BA%91%E5%85%AC%E5%8F%B8
+trojan://Aimer@178.128.198.120:8443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&host=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5173
+vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@198.41.209.70:443?security=tls&sni=is.oldcloud.online&type=ws&host=is.oldcloud.online&path=%2F&fp=chrome#🇬🇧[openproxylist.com]
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.98.57:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
+ss://2642c002-1f66-46fd-8e4c-a25bba373c98@162.159.129.11:2096?security=tls&sni=cantarella.yaechan.ip-ddns.com&type=ws&host=cantarella.yaechan.ip-ddns.com&path=%2Fproxyip%3Dnavia.shorekeeper.ir&fp=randomized&alpn=http%2F1.1#🇸🇬[openproxylist.com]
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.198.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#GB_speednode_0103
+trojan://blue2024@104.17.165.253:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A532
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.58:21829?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@155.46.213.20:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=%2F#🇸🇬[openproxylist.com]
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@45.80.110.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#EE_speednode_0020
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@173.245.58.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🇸🇬[openproxylist.com]
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy05MTU4Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ5MjgyNTI0NS4xLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+trojan://Aimer@185.51.246.121:2053?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A522
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.174.138.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#RU_speednode_0147
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjQ3Ljc2LjI4LjQzIiwicG9ydCI6IjM0ODMzIiwidHlwZSI6IndpcmVndWFyZCIsImlkIjoiZGQwZDMwYWUtYTRkMS00ZDFlLTg1NTMtNDJiZmZmNjZmZDI3IiwiYWlkIjoiMCIsIm5ldCI6ImtjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+trojan://Aimer@104.16.12.162:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A597
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZIQDE3Mi4yMzMuMTI4LjEyNjoxODY2#SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-172.233.128.126%3A1866
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.64:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🇸🇬[openproxylist.com]
 trojan://Aimer@162.159.130.209:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5102
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.138.134:443#%E6%9C%AA%E7%9F%A534
-hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%236
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7g2MiB8ICAzLjNNQi9zfE9wZW5haXxHZW1pbmkiLCAiYWRkIjogInYyOS5oZWR1aWFuLmxpbmsiLCAicG9ydCI6IDMwODI5LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiaG9zdCI6ICJvY2JjLmNvbSIsICJwYXRoIjogIi9vb29vIn0=
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.60:30495?allowInsecure=0&sni=www.baidu.com#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ZUpwODFDZWo0MFp1MU91UFJQblR4@3.255.250.127:23456#%E6%9C%AA%E7%9F%A5118
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.67.20:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🇸🇬[openproxylist.com]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@213.218.255.99:40000#HK
-vless://357b1bba-6400-4944-baff-1b933311ff28@172.67.200.11:443?security=tls&sni=SsSSSSSsSSSD.890606.Xyz&type=ws&host=SsSSSSSsSSSD.890606.Xyz&path=%2FkSIHD28dr9nkaMBYIsgt&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com]
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@159.246.55.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0195
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.153.7.251:8880?type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🇸🇬[openproxylist.com]
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.16.100.188:80?security=none&sni=entezar.loseyourself.dpdns.org&type=ws&host=entezar.loseyourself.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🇸🇬[openproxylist.com]
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.228:80?type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#🇸🇬[openproxylist.com]
-vmess://eyJ2IjoiMiIsInBzIjoiMSB8ICAxLjhNQi9zfDE1JXxEaXNuZXl8WW91dC4uLiIsImFkZCI6ImJjODQyYjQ5LXN3ZXhzMC10MXJ0NWUtMXMwOXguaGdjMS50Y3BiYnIubmV0IiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNjJiNzgyNGUtNDdkYy0xMWVmLTlmMmQtZjIzYzkxNjRjYTVkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCJ0bHMiOiIifQ==
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:45203?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD4%7C%40ripaojiedian
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.92.9.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#JP_speednode_0114
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
-hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net:8443?sni=2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8122%20%7C%20%201.4MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDQ1Ljg3LjE3NS4yODo4MDgw#SS-%E7%AB%8B%E9%99%B6%E5%AE%9B%3E%E8%8D%B7%E5%85%B0-NF%E8%A7%A3%E9%94%81%E8%8D%B7%E5%85%B0%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-45.87.175.28%3A8080
-trojan://Aimer@23.165.40.54:443?sni=ngepz.ambercc.filegear-sg.me#US19
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.241:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram&allowInsecure=0#🇸🇬[openproxylist.com]
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.181.197.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🇸🇬[openproxylist.com]
-ss://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443?security=tls&sni=sg.xyxy.dpdns.org&type=ws&host=sg.xyxy.dpdns.org&path=%2F00026cc2#🇸🇬[openproxylist.com]
-trojan://bpb-trojan@104.26.5.60:443?security=tls&type=ws&sni=zamim340.ggff.net&host=zamim340.ggff.net#%E6%9C%AA%E7%9F%A548
-vless://767dfba2-ac34-4507-913d-a70703f81a36@104.21.95.172:443?security=tls&sni=mehdiama.mehdiama840.workers.dev&type=ws&host=mehdiama.mehdiama840.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&allowInsecure=1#🇸🇬[openproxylist.com]
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.239:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#%F0%9F%87%BA%F0%9F%87%B861%20%7C%20%201.0MB/s%7CDisney
+trojan://Aimer@172.64.155.78:443?sni=epmf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5145
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.171:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0056
+ss://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?security=tls&sni=hOZori.iR&type=ws&host=hozori.ir&path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&fp=randomized&alpn=http%2F1.1#🇸🇬[openproxylist.com]
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.89.240.63:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B858%20%7C%20%204.2MB/s%7C30%25%7COpenai
+vless://f61f3543-5321-4a74-adfc-d716e23d1b57@fun.120v.ac:2059?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy`
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@94.247.142.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#GB_speednode_0091
+trojan://Aimer@104.16.37.87:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5140
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@167.68.5.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0185
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B89%20%7C%20%204.6MB/s%7CDisney%7COpenai
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.176.24.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#RU_speednode_0140
+hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#%40V2rayNG3%20%238
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@130.250.137.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0198
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0xMjEzIiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ0MjAyMjMyMC4xLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+trojan://Aimer@46.254.93.243:8443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&ws=1&wspath=%2F#RU_speednode_0159
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@104.21.16.5:443?security=tls&sni=faruzan.changli.ddns-ip.net&type=ws&host=faruzan.changli.ddns-ip.net&path=%2Fproxyip%3Dnavia.shorekeeper.ir&fp=randomized&alpn=http%2F1.1#🇸🇬[openproxylist.com]
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTY0IiwiYWRkIjoiMzcuMTUyLjE4MS4xMzgiLCJwb3J0IjoiNTA1MCIsImlkIjoiYTc3YzMwMjYtYjI5Ny00N2Q1LWM4MzctYjE4YjY0MTk4ZDBiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE2NCJ9
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.36:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🇸🇬[openproxylist.com]
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0xNTI1Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ0MjAyNzU4OS4xLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
-ss://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@46.254.92.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🇸🇬[openproxylist.com]
-trojan://Aimer@162.159.129.21:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5172
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@159.246.55.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🇸🇬[openproxylist.com]
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-UXanxWSRH3.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.147:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🇸🇬[openproxylist.com]
+ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#🇫🇷[openproxylist.com]
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23015?sni=102.yuanul.com#%E6%9C%AA%E7%9F%A5135
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@80.93.202.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#GB_speednode_0077
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZIQDIwNC4xMzYuMTAuMTE1OjE4NjY=#SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-204.136.10.115%3A1866
+trojan://Aimer@154.197.64.206:443?allowInsecure=0&sni=epml.ambercc.filegear-sg.me&ws=1&wspath=%2F#%F0%9F%87%BF%F0%9F%87%A6%20%E5%8D%97%E9%9D%9E%20V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.122:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0038
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.91:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🇸🇬[openproxylist.com]
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@5.182.84.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0148
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.107:80?type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=%2FTelegram%3A%40ShadowProxy66%2F%3Fed%3D2560#🇸🇬[openproxylist.com]
