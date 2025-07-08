@@ -3,15 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@59.29.143.247:10894?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/security=tls#%F0%9F%87%BA%F0%9F%87%B846%20%7C%20%202.3MB/s%7C62%25%7CNetflix%7CDi...
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@216.116.134.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%201.3MB/s%7C61%25%7CDisney%7COpen...
-trojan://Aimer@38.150.7.227:19742?sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.245.76:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3#NL_speednode_0119
-trojan://Aimer@188.164.159.185:8443?allowInsecure=0&sni=epml.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@104.25.252.184:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A510
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@86.38.214.254:8880?type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🇸🇬[openproxylist.com]
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2TUZZNE1ERTFPVU5aU1ZjNU9GZzVUZw==@8tv68qhq.slashdevslashnetslashtun.net:18013#%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
-hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.255:443?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B843%20%7C%20%204.9MB/s%7C48%25%7CNetflix%7CDi...
-vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.16.240.122:80?security=none&sni=ey.nazanin.dpdns.org&type=ws&host=ey.nazanin.dpdns.org&path=%2F%3Fed%3D2560&fp=random&allowInsecure=1#🇸🇬[openproxylist.com]
-vless://bbfeab42-afd8-4c8c-f4f5-d1d36599831f@151.101.66.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=fonmelo.com&path=/olem/ws?ed%3D4096&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram`
-hysteria2://2ec58858-976b-11ea-82ef-f23c9164ca5d@6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net:8443?sni=6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B898%20%7C%20%201.3MB/s
+trojan://Aimer@103.116.7.220:2096?allowInsecure=0&sni=epml.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5%20_%E6%97%A5%E6%9C%AC
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy03NzI1Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExNDU3NjU3MTQyLjEtc2VuYXRvci5pbmZvIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+trojan://Aimer@154.219.5.65:2087?sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD6
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.159:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram@ShadowProxy66/?ed=2560#KZ_speednode_0107
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560fp=chrome#%F0%9F%87%B0%F0%9F%87%B73%20%7C%20%201.3MB/s%7C61%25%7CDisney%7COpen...
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.241:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram#🇸🇬[openproxylist.com]
+hysteria2://J4MF5gYLAejSsZA1b0T3djeNGoI@44.243.233.105:16523?insecure=1#%40V2aryng_vpn%20%231
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.212:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0058
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJTU1N4WGN2RnRZLjQ0NDc1Mi5YeXoiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTEyZDk2NzQtZGIxMi00NGNhLWExYjUtNjU0MjQ0NTQ5YjY1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii91aUF4dkg2T2tWazBWQ2ZhN2RYM0pJcllrN3ptIiwiaG9zdCI6InNzc3h4Y3ZmdHkuNDQ0NzUyLnh5eiIsInRscyI6IiJ9
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy03MTk3Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTU1MTM4MjQzMzIuMi1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.21.109.177:443?security=tls&sni=rayan-07.parastoo.dpdns.org&type=ws&host=rayan-07.parastoo.dpdns.org&path=%2F%40Rayan_Config&fp=chrome#🇸🇬[openproxylist.com]
+trojan://Aimer@103.116.7.103:2083?sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
