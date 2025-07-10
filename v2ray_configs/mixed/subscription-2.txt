@@ -3,33 +3,32 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vmess://eyJ2IjoiMiIsInBzIjoiMSB8ICAxLjBNQi9zfDAlfE5ldGZsaXh8RGlzbi4uLiIsImFkZCI6IjE4My4yMzYuNTEuMzgiLCJwb3J0IjoiNDkyOTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@198.62.62.78:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0053
-hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#%40V2rayNG3%20%238
-hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#27hv-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
-trojan://113b0562-5018-4533-8268-ebb5bb5e5433@h2de.gzcloud.shop:443?sni=h2de.gzcloud.shop#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8%20137.0KB%2Fs
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:4446?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@155.46.213.77:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2#US_speednode_0069
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@18.234.152.195:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B822%20%7C%20%201.7MB/s%7C30%25%7COpenai
-trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@104.21.63.135:443?sni=Rrr4.8906004.xYZ#%E6%9C%AA%E7%9F%A55
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@whatismyipaddress.com:443?allowInsecure=0&sni=sk.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-订阅内容解析错误vmess://eyJ2IjoiMiIsInBzIjoiMSB8ICAxLjhNQi9zfDU0JXxZb3V0dWJlfE9wZS4uLiIsImFkZCI6InNzbHZwbi41MWpvYi5jb20iLCJwb3J0IjoiMTQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJhNmEwZDkwMS02N2U5LTQ2MGEtOTBiNS02MzRjNWM0Zjk3ODIiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwicGF0aCI6Ii82MzRjNWM0Zjk3ODIiLCJob3N0IjoiY2VudG9zNyIsInRscyI6InRscyJ9
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.105:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0030
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjQ3Ljc2LjI4LjQzIiwicG9ydCI6IjM0ODMzIiwidHlwZSI6InNydHAiLCJpZCI6ImRkMGQzMGFlLWE0ZDEtNGQxZS04NTUzLTQyYmZmZjY2ZmQyNyIsImFpZCI6IjAiLCJuZXQiOiJrY3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@au.saigonfly.com:17169?insecure=0#%20%40game_file2020
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@188.42.88.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#LU_speednode_0035
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.191:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0078
-hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@192.9.176.249:443?insecure=1&sni=www.bing.com#%40meli_proxyy%20%234
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-KILVHWQpc0.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjQ3Ljc2LjI4LjQzIiwicG9ydCI6IjM0ODMzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImRkMGQzMGFlLWE0ZDEtNGQxZS04NTUzLTQyYmZmZjY2ZmQyNyIsImFpZCI6IjAiLCJuZXQiOiJrY3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-hysteria2://ad877c5e-08c7-4499-b139-da371b031194@flyyg.flylink.cyou:35240?insecure=1&sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#Telegram%3A%40config_proxy%20%20%231
+vmess://eyJ2IjogIjIiLCAicHMiOiAi5pel5pysdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiOC4yMTEuMTQ1LjE0NiIsICJwb3J0IjogIjIzODkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiOWY5ZjM5NWItZTliMi00Y2ZkLTg1YjMtMDQyNWYwZTExYWQ3IiwgInNuaSI6ICIifQ==
+hysteria2://hfWoFliBzz7DzJ4AhSrCpNsiw@34.221.171.77:21779?insecure=1#%40V2aryng_vpn%20%237
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.71.31:443?allowInsecure=0&sni=ck.ylka.dpdns.org#%E7%94%B5%E6%8A%A5%E7%BE%A4%EF%BC%9Ahttps%3A%2F%2Ft.me%2Fvvkj11
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.227.100.180:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B856%20%7C%20%201.5MB/s%7C30%25%7COpenai
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
+vless://941d092e-8313-452a-ba21-c9995dcba79d@101reel.com:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=havvas.shohreh.dpdns.org&fp=random&type=ws&sni=havvas.shohreh.dpdns.org#5kbz-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@otto.ns.cloudflare.com:443?allowInsecure=0&sni=ck.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@167.68.4.223:2096?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@3.87.11.247:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B827%20%7C%20%201.1MB/s%7C30%25%7COpenai
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.203.207.10:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B819%20%7C%20%201.5MB/s%7C30%25%7COpenai
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.229.111.223:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B884%20%7C%20%204.0MB/s%7C30%25%7COpenai
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3#DE_speednode_0005
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@104.129.164.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0056
-trojan://Aimer@103.116.7.220:2096?allowInsecure=0&sni=epml.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5%20_%E6%97%A5%E6%9C%AC
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@18.208.227.137:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B824%20%7C%20%201.4MB/s%7C30%25%7COpenai
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjguMjExLjE0NS4xNDYiLCJwb3J0IjoiMjM4OSIsInR5cGUiOiJ3aXJlZ3VhcmQiLCJpZCI6IjlmOWYzOTViLWU5YjItNGNmZC04NWIzLTA0MjVmMGUxMWFkNyIsImFpZCI6IjAiLCJuZXQiOiJrY3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443?insecure=1&sni=www.bing.com#2%20%232
-vmess://eyJ2IjogIjIiLCAicHMiOiAi576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjExMS4yNi4xMDkuNzkiLCAicG9ydCI6ICIzMDgyOCIsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIiwgImhvc3QiOiAib2NiYy5jb20iLCAicGF0aCI6ICIvb29vbyJ9
-hysteria2://user11.serverTest1234@knock.zone1.center:443?insecure=0&obfs=salamander&obfs-password=The_Sefr-salamdash#%40v2rayng_fars%20%20Telegram%20%231
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.99:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0027
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.90.211.248:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B821%20%7C%20%202.2MB/s%7C30%25%7COpenai
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@130.250.137.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0044
+hysteria2://a914681a-8dda-4c98-8468-c313f5539b14@sg3.eyucdn.xyz:2056?insecure=1&sni=sg3.eyucdn.xyz#%E6%9C%AA%E5%91%BD%E5%90%8D%20%234
+vmess://ewogICJ2IjogMiwKICAicHMiOiAiVk1FU1Mt5pyq55+lPuiLseWbvS1ORuino+mUgeazouWFsOWcsOWMuumdnuiHquWItuWJpy1DaGF0R1BULVRpa1Rvay1iNjJhOTQ4Yy1mYWEyLTRlOGEtYmY4YS0zZmYzMTIxYzg3NWEuYXNvdWwtYXZhLnRvcDo0NDMiLAogICJhZGQiOiAiYjYyYTk0OGMtZmFhMi00ZThhLWJmOGEtM2ZmMzEyMWM4NzVhLmFzb3VsLWF2YS50b3AiLAogICJwb3J0IjogNDQzLAogICJpZCI6ICI1ZjcyNmZlMy1kODJlLTRkYTUtYTcxMS04YWYwY2JiMmI2ODIiLAogICJhaWQiOiAwLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogImI2MmE5NDhjLWZhYTItNGU4YS1iZjhhLTNmZjMxMjFjODc1YS5hc291bC1hdmEudG9wIiwKICAicGF0aCI6ICIvYXp1bWFzZS5yZW4iLAogICJ0bHMiOiB0cnVlLAogICJzbmkiOiAiIgp9
+trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#45%20%7C%20%202.5MB%2Fs%7C46%25%7COpenai%7CGem...
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AxIHwgIDEuOE1CL3N8MTUlfERpc25leXxZb3V0Li4uIiwgImFkZCI6ICJiYzg0MmI0OS1zd2V4czAtdDFydDVlLTFzMDl4LmhnYzEudGNwYmJyLm5ldCIsICJwb3J0IjogODA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNjJiNzgyNGUtNDdkYy0xMWVmLTlmMmQtZjIzYzkxNjRjYTVkIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIn0=
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:4448?sni=www.baidu.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy00MDcwIiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExNDU3NjIzODExNC4yLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMDMuMjI0LjgwLjEwMyIsICJwb3J0IjogIjMzMjkxIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImU2OTI1Y2JlLTUxYjktNDBlOS1iNTdlLTg1YjZmMDI2NDk5YiIsICJzbmkiOiAiIn0=
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@de.saigonfly.com:17911?insecure=0#%20%40game_file2020%20%2310
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@bowen.ns.cloudflare.com:443?allowInsecure=0&sni=sk.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@170.114.45.78:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0048
+hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?insecure=1&sni=www.bing.com#%40vpnv2r4y%20%20
+hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1&sni=www.bing.com#%40meli_proxyy%20%238
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.217.86.162:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B817%20%7C%20%202.5MB/s%7C30%25%7COpenai
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2TUVGT1NWQk5VVGhXTkZCSU1rSlJUdw==@ti3hyra4.slashdevslashnetslashtun.net:18002#%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
