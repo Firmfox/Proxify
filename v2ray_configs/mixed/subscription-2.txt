@@ -3,50 +3,37 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-hysteria2://607d365e-7ea1-11ee-95e9-f23c913c8d2b@69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net:8443?sni=69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8104%20%7C%20%202.1MB/s
-hysteria2://d9fe1f5e-8f0f-41b6-95f6-d90aa0404924@75.127.13.83:45551?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%234
-trojan://Aimer@218.147.223.43:12534?allowInsecure=0&sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.242.43.74:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B859%20%7C%20%204.7MB/s%7C30%25%7COpenai
-trojan://Aimer@167.68.4.58:443?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@www.speedtest.net:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#%F0%9F%87%A9%F0%9F%87%AA2%20%7C%20%201.3MB/s%7C0%25%7COpenai
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:16158?allowInsecure=1&sni=www.baidu.com#%E9%9F%A9%E5%9B%BD4%7C%40ripaojiedian
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@5.10.214.20:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram@WangCai2#DE_speednode_0006
-hysteria2://YidTdI17j06K1PFBUWdzWDVZXc@52.14.165.55:33562?insecure=1#%20%40V2aryng_vpn%20%20%20%234
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&type=ws&alpn=h3h2&host=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&path=/#telegram
-ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
-trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%E6%9C%AA%E7%9F%A510
-hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-v4.dgi000.store&obfs=salamander&obfs-password=@azadi_az_inja_migzare#%40V2rayNG3%20%234
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%201.2MB/s%7C30%25%7CDisney%7COpen...
-trojan://Aimer@5.182.84.52:2083?allowInsecure=0&sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@otto.ns.cloudflare.com:443?sni=ck.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD18
-hysteria2://jvTJxLMlcl@p4.3dfigures.ir:30452?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%40v2ray313%20%20%20%231
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#%40V2ray1_Ng
-vmess://ewogICJ2IjogMiwKICAicHMiOiAiVk1FU1Mt5pyq55+lPuazleWbvS1DaGF0R1BULTFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wOjQ0MyIsCiAgImFkZCI6ICIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogIjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsCiAgImFpZCI6IDAsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6IG51bGwsCiAgImhvc3QiOiAiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLAogICJwYXRoIjogIi9henVtYXNlLnJlbiIsCiAgInRscyI6IHRydWUsCiAgInNuaSI6ICIiCn0=
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#2%20%7C%20%201.5MB%2Fs%7C44%25%7COpenai
-hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=0&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B888%20%7C%20%201.1MB/s
-trojan://Aimer@121.147.108.106:16020?allowInsecure=0&sni=epmx.ambercc.filegear-sg.me#%E6%97%A5%E6%9C%9F%EF%BC%9A07-11
-trojan://Aimer@31.43.179.27:443?sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0
-hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B842%20%7C%20%205.7MB/s%7C47%25%7CNetflix%7CDi...
-hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1#%40V2aryng_vpn%20%232
-hysteria2://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@ed8e1d3b-sw3ts0-szt6ky-1bonh.hy2.gotochinatown.net:8443?sni=ed8e1d3b-sw3ts0-szt6ky-1bonh.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8100%20%7C%20%201.3MB/s
-trojan://Aimer@103.116.7.100:2087?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
-hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%239
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCJhZGQiOiIxMDMuMjI0LjgwLjkyIiwicG9ydCI6IjU4MjM2IiwidHlwZSI6Imh0dHAiLCJpZCI6IjgyOTIxOGUzLTlmNzQtNDMwMy04OGRhLWE5ZDg0ZjBjNzg1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.218.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#US_speednode_0064
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy04NjQzIiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMjE2MTI4MTI4MTYzLjEtc2VuYXRvci5pbmZvIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6InYyNS5oZWR1aWFuLmxpbmsiLCJwb3J0IjoiMzA4MjUiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9vb29vIiwiaG9zdCI6InYyNS5oZWR1aWFuLmxpbmsiLCJ0bHMiOiIifQ==
-trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%E6%9C%AA%E7%9F%A58
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.121:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#%F0%9F%87%BA%F0%9F%87%B818%20%7C%20%202.8MB/s%7C0%25%7CNetflix%7COpe...
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDQ1Ljg3LjE3NS4yODo4MDgw#SS-%E7%AB%8B%E9%99%B6%E5%AE%9B%3E%E8%8D%B7%E5%85%B0-NF%E8%A7%A3%E9%94%81%E8%8D%B7%E5%85%B0%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-45.87.175.28%3A8080
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy05MTU4Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ5MjgyNTI0NS4xLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
-trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.229.104.253:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B815%20%7C%20%202.5MB/s%7C30%25%7COpenai
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+MgDQtVEggfCAgMi42TUIvc3w1NSV8TmV0ZmxpeHxPLi4uIiwgImFkZCI6ICIzOC40Ny45Ni4zMCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIxNjRhNmFkMC00NzZhLTRiYWUtYjc4Zi1hM2QzN2NmMGY0MTQiLCAiaG9zdCI6ICJ0aC5semo1MjBoeHcuZHBkbnMub3JnIiwgInBhdGgiOiAiL2x6ampqIn0=
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@us.saigonfly.com:17627?insecure=0#%20%40game_file2020%20%2322
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AxIHwgIDEuOE1CL3N8MTUlfERpc25leXxZb3V0Li4uIiwgImFkZCI6ICJiYzg0MmI0OS1zd2V4czAtdDFydDVlLTFzMDl4LmhnYzEudGNwYmJyLm5ldCIsICJwb3J0IjogODA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNjJiNzgyNGUtNDdkYy0xMWVmLTlmMmQtZjIzYzkxNjRjYTVkIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIn0=
-trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.220.32:443?sni=eEEfGty6.999836.XYz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.110.232:443?sni=ck.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD24
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.148.106.78:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0049
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@66.45.118.78:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0046
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFRQDQ1LjE0NC41NC4zMzozNDgwMw==#SS-%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A-NF%E8%A7%A3%E9%94%81%E5%BE%B7%E5%9B%BD%E5%9C%B0%E5%8C%BA%E9%9D%9E%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-45.144.54.33%3A34803
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:32765?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.129.67:8443?sni=ck.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD17
+hysteria2://jvTJxLMlcl@p4.3dfigures.ir:20627?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#%40v2ray313%20%20
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#63%20%7C%20%202.1MB%2Fs%7C46%25%7COpenai%7CGem...
+hysteria2://user10.thisismeSUperkl19201@shade.zone1.center:443?insecure=0&obfs=salamander&obfs-password=mkv_SEfr-salamdash#%20%40V2RayTheKyo%20%20%20%20%20%233
+hysteria2://e3975a05-b89e-11ec-a50d-f23c91cfbbc9@d5d8af9a-svlb40-sxf56z-1f596.hy2.gotochinatown.net:8443?insecure=1&sni=d5d8af9a-svlb40-sxf56z-1f596.hy2.gotochinatown.net#%40V2aryng_vpn%20%236
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%E6%9C%AA%E7%9F%A510
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@59.153.218.14:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0076
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?type=ws&sni=vle.amclubdns.dpdns.org&path=/?ed=2560&host=vle.amclubdns.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD25
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?allowInsecure=1&sni=vle.amclubdns.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20V2CROSS.COM
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@br.saigonfly.com:17383?insecure=0#%20%40game_file2020%20%233
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#uf6k-%252540Fr33C0nfig%252520%25252F%252520%2525DA%2525A9%2525D8%2525A7%2525D9%252586%2525D9%252581%2525DB%25258C%2525DA%2525AF%252520%2525D8%2525B1%2525D8%2525A7%2525DB%25258C%2525DA%2525AF%2525D8%2525A7%2525D9%252586%252520🔗
+hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=0&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B888%20%7C%20%201.1MB/s
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy00NjI5Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ5MjgyNTExOTIuMS1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0xMjEzIiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ0MjAyMjMyMC4xLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+hysteria2://607d365e-7ea1-11ee-95e9-f23c913c8d2b@69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net:8443?sni=69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8104%20%7C%20%202.1MB/s
+trojan://Aimer@46.254.93.243:8443?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+vless://941d092e-8313-452a-ba21-c9995dcba79d@101reel.com:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=havvas.shohreh.dpdns.org&fp=random&type=ws&sni=havvas.shohreh.dpdns.org#5kbz-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@155.46.167.78:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0047
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?insecure=1&sni=www.bing.com#%40v2rayngzendegimamad
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:16158?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD4%7C%40ripaojiedian
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.34.143.101:6668?allowInsecure=1&sni=baidu.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy00MDcwIiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExNDU3NjIzODExNC4yLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@www.speedtest.net:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#%F0%9F%87%A9%F0%9F%87%AA2%20%7C%20%201.3MB/s%7C0%25%7COpenai
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40Mahdi2000_m%20ql_0365
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@de.saigonfly.com:17027?insecure=0#%20%40game_file2020%20%237
+trojan://Aimer@108.165.152.66:2083?allowInsecure=0&sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%203.4MB/s%7C15%25%7COpenai
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@147.78.140.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#BG_speednode_0001
+trojan://Aimer@103.116.7.103:2083?allowInsecure=0&sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5%20_%E6%97%A5%E6%9C%AC
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17412?insecure=0#%20%40game_file2020%20%2326
+trojan://Aimer@154.211.8.155:443?allowInsecure=0&sni=epmx.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%201.2MB/s%7C30%25%7CDisney%7COpen...
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.71.31:443?sni=ck.ylka.dpdns.org#%E6%9C%AA%E7%9F%A57
