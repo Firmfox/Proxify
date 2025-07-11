@@ -3,31 +3,30 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.180:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3#DE_speednode_0009
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:4447?sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11
-hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B842%20%7C%20%205.7MB/s%7C47%25%7CNetflix%7CDi...
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0zNTc2Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMjA3MTQ4MjYxLjItc2VuYXRvci5pbmZvIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
-trojan://Aimer@135.84.64.36:2083?allowInsecure=0&sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@uk.saigonfly.com:17129?insecure=0#%20%40game_file2020%20%2315
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@18.208.227.137:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B824%20%7C%20%201.4MB/s%7C30%25%7COpenai
-trojan://Aimer@103.116.7.103:2083?sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC7
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@5.10.214.20:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram@WangCai2#DE_speednode_0006
-hysteria2://dongtaiwang.com@108.181.5.130:57773?insecure=1&sni=apple.com#%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29%20%231
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0073
-hysteria2://dec336f6-e5da-40f4-a4de-986c7b34d587@fr4.eyucdn.xyz:2056?insecure=1&sni=fr4.eyucdn.xyz#IRAN%204%20%28%40Outline_Vpn%29
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@wilson.ns.cloudflare.com:443?sni=sk.ylka.dpdns.org#%E6%9C%AA%E7%9F%A5
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@us.saigonfly.com:17340?insecure=0#%20%40game_file2020%20%2321
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@de.saigonfly.com:17911?insecure=0#%20%40game_file2020%20%2310
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.146.50.45:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B829%20%7C%20%202.9MB/s%7C30%25%7COpenai
-hysteria2://928a3318-b103-4f5f-ac80-1efd6f05d3d7@47.238.98.245:50000?insecure=1&sni=ali.xiao666666.site#NetAccount%20%232
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@155.46.167.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0059
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@59.29.143.247:10894?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/security=tls#%F0%9F%87%BA%F0%9F%87%B846%20%7C%20%202.3MB/s%7C62%25%7CNetflix%7CDi...
-hysteria2://e3f67f43-9097-4e56-96e2-681910b92150@172.245.106.236:35091?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=fWQ4LCfAYiKaEVRe#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%233
-hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:19338?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%40VpnFreak%20%7CTrade2%7C
-trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@104.21.6.179:443?allowInsecure=0&sni=ZZzzzZZ.890601.XYZ#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@154.197.64.104:8443?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
-hysteria2://a68e381f-84f6-452e-a644-d5296a1e6c54@141.11.42.195:44001?insecure=1&sni=www.bing.com#%20%40V2aryng_vpn%20%20%20%236
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-e8zxTxmqk7.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:40408?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%40VpnFreak%20%7CTrade1%7C
-hysteria2://67828a6e-0144-4e57-8169-2447a3dd2e61@23.80.81.213:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de
+hysteria2://9FmazX8AAPpM8TQcNyI2zvBDF5o@92.112.23.216:28264?insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hr/Cfh7UxIHwgIDEuOE1CL3N8NTQlfFlvdXR1YmV8T3BlLi4uIiwgImFkZCI6ICJzc2x2cG4uNTFqb2IuY29tIiwgInBvcnQiOiAxNDQzLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiYTZhMGQ5MDEtNjdlOS00NjBhLTkwYjUtNjM0YzVjNGY5NzgyIiwgImhvc3QiOiAiY2VudG9zNyIsICJwYXRoIjogIi82MzRjNWM0Zjk3ODIifQ==
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@18.208.226.170:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B828%20%7C%20%201.3MB/s%7C30%25%7COpenai
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B89%20%7C%20%204.6MB/s%7CDisney%7COpenai
+hysteria2://user10.thisismeSUperkl19201@shade.zone1.center:443?insecure=0&obfs=salamander&obfs-password=mkv_SEfr-salamdash#%20%40V2RayTheKyo%20%20%20%20%20%233
+trojan://Aimer@209.94.90.87:2087?sni=epmk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40Mahdi2000_m%20ql_0367
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.99:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0027
+hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=0&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B888%20%7C%20%201.1MB/s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?allowInsecure=1&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir&path=/security=tls#%F0%9F%87%AB%F0%9F%87%B76%20%7C%20%201.5MB/s%7C36%25%7COpenai
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.217.2.236:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B849%20%7C%20%204.0MB/s%7C30%25%7COpenai
+vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwNy0xMCAxNjo0MCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy04Nzk2Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTQ5MjgyNDgzOS4xLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@109.176.239.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#GB_speednode_0016
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.34.143.101:6668?allowInsecure=1&sni=baidu.com#%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+vless://895552fa-6284-4c1d-ba00-3944e0c7c626@104.21.71.112:443?sni=CccVF34ER4.288288.sHop&alpn=http/1.1&type=ws&host=cccvf34er4.288288.shop&path=/C1SukvGdr58yeduy9AOGfp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8118%20%7C%20%201.9MB/s%7C50%25%7COpenai
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#3-SK%20%7C%20%205.0MB%2Fs%7C0%25%7CYoutube%7COp...
+hysteria2://jvTJxLMlcl@p4.3dfigures.ir:20627?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#%40v2ray313%20%20
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0xMTU5Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTU1MTM4MjAxMTIxLjEtc2VuYXRvci5pbmZvIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:4448?sni=www.baidu.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
+hysteria2://J4MF5gYLAejSsZA1b0T3djeNGoI@44.243.233.105:16523?insecure=1#%20%40V2aryng_vpn%20%20%20%231
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:4445?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.123:10600?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://Aimer@5.182.85.255:2096?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
+vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@www.speedtest.net:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#%F0%9F%87%A9%F0%9F%87%AA2%20%7C%20%201.3MB/s%7C0%25%7COpenai
+vless://585acd30-52bf-4b70-a537-e13649fafefc@104.21.53.113:443?sni=bBA.890601.pP.UA&alpn=http/1.1&type=ws&host=bba.890601.pp.ua&path=/rU9rSjDSOd4yY2fOefp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B879%20%7C%20%201.7MB/s%7C30%25%7COpenai
+ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC6
