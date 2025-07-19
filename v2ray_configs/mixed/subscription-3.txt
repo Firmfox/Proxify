@@ -3,13 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlBQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7GB-74.177.198.27-0225
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE5NS4xODEuMTYwLjY6OTkw#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0229
-vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?type=ws&path=/6603a779fp=chrome#%F0%9F%87%AE%F0%9F%87%B71%20%7C%20%201.3MB/s%7C0%25%7COpenai
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.129.166.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳#US_speednode_0346
-vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@5.10.244.109:443?allowInsecure=1&sni=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=madcity2.777999.lol&path=/?ed=2560fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B810%20%7C%20%202.0MB/s%7C0%25%7CNetflix%7CDis...
-hysteria2://Ys1Z1iA996@78.138.118.228:22527?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal2%20%232
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4NS40Ny4yNTMuMjI3Ojk5MA==#%F0%9F%87%AA%F0%9F%87%A8EC-185.47.253.227-5158
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A0Ni4xODMuMTg1LjM3Ojk4OQ==#%F0%9F%87%B2%F0%9F%87%B0MK-46.183.185.37-0293
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@sullivan.ns.cloudflare.com:443?allowInsecure=0&sni=ns.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.129.199.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#GB_speednode_0084
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/TelegramрЯЗ®рЯЗ≥ @WangCai2 /?ed=2560#KZ_speednode_0133
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My4xOTQ6NDQz#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-0062
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi40Ny4xMzE6NDQz#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.131-0202
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.62:14495?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.200.160.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0241
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3NAMTA5LjIwMS4xNTIuMTgxOjQ0Mw==#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0193
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.43:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#GB_speednode_0101
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@170.114.46.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/#US_speednode_0311
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@74.49.215.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#CA_speednode_0023
+vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?mode=auto&path=%2FAmirrezagol%3Fed%3D2560&security=none&encryption=none&host=amirrezagol.global.ssl.fastly.net&type=xhttp#6xzx-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
