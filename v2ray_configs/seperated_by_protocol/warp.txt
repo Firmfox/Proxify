@@ -4,5 +4,5 @@
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#%40warp_city%20%232
-hysteria2://%40warp_city@jnir-5.pichondan.com:35000?insecure=0&sni=pichondan.com&obfs=salamander&obfs-password=@warp_city#%40warp_city
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40warp_city%20%231
+hysteria2://%40warp_city@jnir-5.pichondan.com:35000?insecure=0&sni=pichondan.com&obfs=salamander&obfs-password=@warp_city#%40warp_city
