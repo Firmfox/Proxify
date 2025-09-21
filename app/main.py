@@ -23,7 +23,34 @@ V2RAY_LINKS = [
     "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
     "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
     "https://mrpooya.top/SuperApi/BE.php",
-    "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt"
+    "https://v2.alicivil.workers.dev",
+    "https://gist.githubusercontent.com/WLget/aeb222e378a8dcbd74e06413dbacf400/raw/base64.txt",
+    "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/app/sub.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
+    "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed",
+    "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix",
+    "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt",
+    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
+    "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
+    "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
+    "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
+    "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
+    "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
+    "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
+    "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
+    "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
+    "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
+    "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
+    "https://raw.githubusercontent.com/code3-dev/v-data/refs/heads/main/vip",
+    'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub',
+    'https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt',
+    "https://raw.githubusercontent.com/MrAbolfazlNorouzi/iran-configs/refs/heads/main/configs/working-configs.txt",
+    'https://www.v2nodes.com/subscriptions/country/all/',
+    "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt"
 ]
 
 PROXY_LINKS = {
@@ -41,7 +68,7 @@ PROXY_LINKS = {
         'https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/SOCKS5_RAW.txt',
         'https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies/socks5.txt',
         'https://raw.githubusercontent.com/sunny9577/proxy-scraper/refs/heads/master/generated/socks5_proxies.txt',
-        'https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt'
+        'https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt',
     ],
     'socks4': [
         'https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/protocols/socks4/data.txt',
