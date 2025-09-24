@@ -229,7 +229,7 @@ def get_v2ray():
                     configs.update(line.strip() for line in data.splitlines() if line.strip())
     
     if configs:
-        configs = list(filter(lambda line: not line.startswith('#'),list(configs)))
+        configs = list(filter(lambda line: line.startswith(('vless://','vmess://','ss://','shadowsocks://','hysteria2://','trojan://')),list(configs)))
         protocol_map = organize_configs(configs)
         save_protocol_files(protocol_map)
         save_subscription_files(configs)
