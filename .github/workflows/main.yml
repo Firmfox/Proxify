@@ -1,4 +1,4 @@
-name: Update Proxies every 30 Minutes
+name: Update Proxies every 60 Minutes
 
 on:
   schedule:
