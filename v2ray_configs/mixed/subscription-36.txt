@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?allowInsecure=0#%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%9A%E4%BC%A6%E5%A4%9A+V2CROSS.COM
-trojan://vip@www.udacity.com:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1902%20%7C%20free-nodes
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.107.37:3093?security=tls&amp;sni=www.nintendogames.net&amp;allowInsecure=1&amp;type=tcp#@awlix_ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#@HiByeVPNN 💯⚡❤️‍🔥
-ss://1cb642d5-4850-467b-955d-ce8c1844be3d@3.92.81.121:443?encryption=none&amp;security=reality&amp;sni=api.cloudflare.com&amp;fp=chrome&amp;pbk=jZpqZEZkEn4XJig0nBM_d4qiODV4mND24htl6FMMBRA&amp;sid=6f13f3e109&amp;spx=%2Fclient&amp;type=xhttp&amp;host=api.cloudflare.com&amp;path=%2Fclient&amp;mode=stream-up#Kiava-X15-S3
-ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ@217.30.10.70:9050#🇵🇱 313 - PL - SS/STREAM - 9050
+vless://6474da41-36d4-4675-9b3b-b68d49f64c16@bloodseeker.fonixapp.org:22688?security=reality&encryption=none&pbk=GKOroDaiSIgbEmu_f-SEPypLtVyMUVuPSXSMf3PfF38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nike.com&sid=3734ad#All-@V2ray_Alpha--47
+trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#%E6%9C%AA%E7%9F%A5188
+vless://881bc54d-4a96-46d0-814c-c261718293f5@www.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=srv6.amazon-osishop.ir&type=httpupgrade#@CaV2ray ⚡️
