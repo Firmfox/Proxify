@@ -3,9 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.197.142:443?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 💙
-hysteria2://UUa5hFByN9@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه اوپراتور ها
-vless://b5471668-94dc-4ea5-ae97-3bb9dabcd2a9@216.133.149.139:23581?security=reality&amp;encryption=none&amp;pbk=EOYTqph-go2SazIPcSDl5pJGNyOnrR0mWaL8Tc_paEM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com#%E2%9C%85%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.70:9046#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-7468
-vless://TelegramChannel:daredevill_404@5.75.194.133:20569?type=xhttp&amp;encryption=none&amp;path=%2F%40daredevill_404&amp;host=&amp;mode=auto&amp;security=none#%40daredevill_404
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.58.220:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🎯 v2ray_configs_pools
+hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#%3E%3E%40V2rayNG3%3A%3AFR
+vmess://eyJhZGQiOiJjaGF0LmRlZXBzZWVrLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6InNhZmFyaSIsImhvc3QiOiJubC0yLnN0dW5uZWwuY2MiLCJpZCI6IjM1MzQyMDM1LTM0MjAtNDEzMC1iMTIwLTM1MzYyMDMxMzAzMiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4NDQzIiwicHMiOiLwn5KO2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixINiv2LEg2obZhtmEINiq2YTar9ix2KfZhfCfko4gQ29uZmlnX1JheWVnYW5AIiwic2N5Ijoibm9uZSIsInNuaSI6Im5sLTIuc3R1bm5lbC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10826?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1831%20%7C%20free-nodes
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1894%20%7C%20free-nodes
+vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
+vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&fp=chrome&type=ws&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev#@Maznet-46203-1
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#🇮🇱 13 - IL - VLESS/REALITY/PQ/VISION/UTLS - 443
+trojan://BxceQaOe@52.68.48.114:4012?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-878%20%7C%20free-nodes
+vless://1efab776-c694-4652-f89e-45ffffe49ef6@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
+ss://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=yahoo.com&amp;fp=chrome&amp;security=reality&amp;pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&amp;sid=816473be23c2#%F0%9F%9F%A368%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA@clr.ducks.tel:17846#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&sni=sbank.ir#%E6%9C%AA%E7%9F%A5%20TROJAN-1840%20%7C%20free-nodes
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&type=ws&allowInsecure=0&sni=terazhedi.info#limo
