@@ -3,21 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://72fa752b-7731-4390-98cb-62b57344e847@germany85.clearorbitllc.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=germany85.clearorbitllc.com&pbk=n5F7RiT4wzYN_JM-Lxwff24YVZy3HHFsVoXtJmRT2BY&sid=80dc32ed&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪 @EVAY_VPN
-vless://064059ce-23b9-45d3-953d-57d4c5092874@026.electrocellco-cf-026.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=026.electrocellco-cf-026.workers.dev&alpn=http/1.1&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV&fp=chrome&encryption=none#🇺🇸 30 - US - VLESS/WS/TLS/UTLS - 443
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All_7--@V2rayAlpha
-vless://b35e1a7b-1248-406c-a35c-d417cd6c830e@fl.mizbanandata.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&sni=docker.com&sid=fd1dff03520d8f56#@IRAN_V2RAY1 🇫🇮
-vless://f2c44225-736e-45a4-9cfb-490fa34e15a0@91.107.178.242:20087?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@104.21.69.44:2053?encryption=none&security=tls&sni=HarTr-29096.phoenixappdatal.uk&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=HarTr-29096.phoenixappdatal.uk&path=/#🇺🇸 39 - US - VLESS/WS/TLS/UTLS - 2053
-vless://88f30f27-b786-4e09-9be4-9dfdc0f93cba@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=eMPatHic-Bird.oneEat.Co&type=ws#telegram 🎪 v2ray_configs_pools
-vless://6890ff85-f79c-4c28-8976-82c65c1b4f82@b.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#با+سرعت+نور+وصل+باش+@ConfigFree
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#🇺🇸 598 - US - VLESS/WS/TLS/UTLS - 8443
-vless://13d36378-f639-4b45-bcf0-3ebc84569ab1@217.13.104.148:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4#🎉31@oneclickvpnkeys
-ss://YWVzLTEyOC1nY206ZTgxOWNlYTItNjE0Yy00OGZmLTgxZTYtNmY0NDc3OWM0ZDIw@120.233.57.69:33115#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD50
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#@MARAMBASHI 🇦🇲
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#👉🆔 @v2ray_configs_pool 📡 🇳🇱NL_5 🧭 4.7MB/s
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0413
-vless://983ca061-f7ba-493a-8482-2896163b3584@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=shop.slimshopboyss.ir&amp;type=xhttp#%40rxv2ray
-vless://71b12692-0e7d-4765-b570-5b99aefe6c9a@Www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=LI.fOxmAsTEr.iR&type=ws#✅سرورهایبیشتردرکانال:prrofile_purple@✅
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed&security=tls&sni=sni.111000.dynv6.net&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%88%DB%8C%DA%98%D9%87+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.62:38388#🇻🇳 311 - VN - SS/STREAM - 38388
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@169.150.242.77:990#%3E%3E%40OutlineVpnOfficial%3A%3AHR
+vless://a5659dda-fed0-4214-90a7-e8dd9507c461@eng45.unlockspace.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.abingdon.org.uk&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#🥶5@oneclickvpnkeys
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?security=tls&insecure=0&sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#🇺🇸 9 - US - Hysteria2/QUIC - 1743
+vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@www.perplexity.ai:80?path=/&security=none&encryption=none&host=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&type=ws#کانال کانفیگ رایگان @Vpn_Sky
+ss://YWVzLTEyOC1nY206ZTgxOWNlYTItNjE0Yy00OGZmLTgxZTYtNmY0NDc3OWM0ZDIw@120.233.57.69:33126#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?security=reality&encryption=none&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&headerType=none&fp=chrome&type=tcp&sni=mirror.yandex.ru&sid=d94e8f45#Channel : @Mrsoulb 🏴🏳
+vless://d569971b-2326-42bd-b58a-9b3633b01ed3@3.94.20.124:443?encryption=none&amp;security=reality&amp;sni=api.cloudflare.com&amp;fp=chrome&amp;pbk=IUt-_nwHiASTrKgU4QGTuTiiNtjSQ1STFRXFW5Zz_Tg&amp;sid=6555eb&amp;spx=%2Fclient&amp;type=xhttp&amp;host=api.cloudflare.com&amp;path=%2Fclient&amp;mode=auto#Kiava-X14-S3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl17.saint.ydns.eu:8080#🇳🇱 158 - NL - SS/AEAD - 8080
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@193.227.99.148:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=sni.111000.v6.rocks#🎊44@vpnserverrr
+vless://0a06d540-6fdd-416c-bdc3-54686f1f3659@m37a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#All--@V2rayAlpha--6
