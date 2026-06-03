@@ -1,0 +1,6 @@
+#profile-title: base64:U1VCLTcyIC0gQEZpcm1mb3g=
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/firmfox/Proxify
+#profile-web-page-url: https://github.com/firmfox/Proxify
+vless://b0bd72b0-b86d-4aba-8669-a8d4da0ecef9@173.245.59.191:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#[🛜] @Firmfox [27-9134]
