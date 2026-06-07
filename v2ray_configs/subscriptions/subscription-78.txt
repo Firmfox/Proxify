@@ -3,7 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&type=xhttp&allowInsecure=1&sni=yahoo.com#[🛜] @Firmfox [15-5369]
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#[🛜] @Firmfox [17-3000]
-vless://b4a00211-ae46-49bc-8f36-0c4425eb7e86@151.101.108.223:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=nesfsheshab.global.ssl.fastly.net&fp=chrome&type=ws&sni=default.ssl.fastly.net#[🛜] @Firmfox [80-8164]
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.159.22.4:443?security=tls&sni=yq.ylks.us.kg&type=ws&path=/?ed#[🛜] @Firmfox [82-5158]
+vless://c94333b4-58c5-48a8-8460-035f6cab13f1@162.19.239.79:443?security=none&encryption=none&headerType=none&type=tcp#[🛜] @Firmfox [42-4989]
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#[🛜] @Firmfox [84-6994]
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@snapp.ir:2082?security=none&type=ws&headerType=&path=/TV&host=eLaHiToKoMaKkOn1.aRvHaMrAh.iR#[🛜] @Firmfox [79-3273]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#[🛜] @Firmfox [73-5852]
+trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click#[🛜] @Firmfox [45-1562]
+vless://960bc4df-7038-43c9-8cea-59639a0f7385@104.17.89.80:443?encryption=mlkem768x25519plus.native.0rtt.WBsloH8ugViNaolcmA3SoSBnYUM-F089rYyGwgi5hHE&security=tls&sni=s3.alivpn.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=s3.alivpn.qzz.io&path=/take&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}#[🛜] @Firmfox [29-5136]
+vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#[🛜] @Firmfox [32-2212]
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#[🛜] @Firmfox [86-5675]
+vless://73e8db38-e518-441d-a4fa-561484095329@s4.alaras1.online:8880?path=/api/update&security=none&encryption=none&host=s4.alaras1.online&type=ws#[🛜] @Firmfox [28-2594]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#[🛜] @Firmfox [47-9551]
+vless://e8b883bb-4f08-4966-bf05-3c47836c8d6e@198.169.2.1:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=vercel.holdmydomain.lol&path=/@MrNexTV2RAY&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}#[🛜] @Firmfox [43-3084]
