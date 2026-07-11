@@ -3,9 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.19.134.235:443?encryption=none&fp=chrome&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#[🛜] @Firmfox [26-3013]
-vmess://eyJhZGQiOiJ2Yy11c2EuMTgxMjI3Lnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZGRjZjEyZC01MmZhLTRlMDktYjRmMS1jNTJkNWNiZWU2OWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmN1cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVTQTAxLWlwdjYiLCJzY3kiOiJhdXRvIiwic25pIjoidmMtdXNhLjE4MTIyNy54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2aW4xLjBiYWQuY29tIiwiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2hhdCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh67wn4ezSU4tMTcyLjEwNS4zNy4xMTktNTI4OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2aW4xLjBiYWQuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=vless://04ef20c2-2926-40f9-e0f8-f5abb3d4456f@github.seatech.ir:993?security=tls&encryption=none&headerType=http&type=tcp&sni=github.seatech.ir#[🛜] @Firmfox [52-4513]
-vless://70cde8b3-4e69-4a82-9188-0262924ae8c6@6f3c1645ff6f9603.mechanicir.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#[🛜] @Firmfox [36-7513]
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&fp=chrome&type=ws&allowInsecure=0&sni=amoosamiii.net#[🛜] @Firmfox [14-5958]
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#[🛜] @Firmfox [18-1465]
-vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@xn--b6gac.eu.org:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=/&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#[🛜] @Firmfox [100-2830]
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#[🛜] @Firmfox [69-7774]
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&security=reality&sni=prod.de-node-01.security-sbrf.ru&fp=chrome&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1&type=tcp&headerType=none#[🛜] @Firmfox [10-5513]
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#[🛜] @Firmfox [37-4931]
+vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33269?type=grpc&security=tls&serviceName=@DigiV2ray&sni=freev2ray.v2ray4.xyz#[🛜] @Firmfox [87-9014]
+trojan://MiTiVPN@172.67.75.194:443?security=tls&type=ws&sni=wbjj-bbcs-.MaQRor.Ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&host=bw--ivs-b--vvs.MaQRor.Ir#[🛜] @Firmfox [62-8345]
+vless://365abb75-6187-41d0-9406-44510be7582f@69.46.46.37:443?path=/unicorn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=uni3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=uni3.up.railway.app#[🛜] @Firmfox [79-4643]
+trojan://telegram-id-directvpn@44.193.210.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#[🛜] @Firmfox [53-4481]
+trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#[🛜] @Firmfox [93-7042]
+vless://92a4cb10-228f-4239-8c63-c566b20a9167@104.16.100.66:8880?encryption=none&host=square-waterfall-c1de.199-82d.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#[🛜] @Firmfox [50-8555]
+ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@46.29.163.175:50129#[🛜] @Firmfox [19-4197]
