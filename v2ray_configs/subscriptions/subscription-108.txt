@@ -3,5 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://e1b81abf-2c98-487a-9b4d-e678f718f4b9@162.159.38.119:8443?path=/eyJqdW5rIjoiSVIwdkdQSmhrT0xRNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tiny-shadow-2432.quillypanel26.workers.dev&fp=chrome&type=ws&allowInsecure=0#[🛜] @Firmfox [44-6238]
-trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#[🛜] @Firmfox [80-4771]
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.153:2053?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#[🛜] @Firmfox [53-2472]
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=/ws?ed=2560&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=07e357aa7e747ca4.hOzHeEn.Ir#[🛜] @Firmfox [18-6835]
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.225.132:22223?security=&encryption=none&headerType=none&type=tcp#[🛜] @Firmfox [26-5158]
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.170.11:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#[🛜] @Firmfox [33-2687]
