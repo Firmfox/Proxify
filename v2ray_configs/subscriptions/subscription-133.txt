@@ -1,0 +1,8 @@
+#profile-title: base64:U1VCLTEzMyAtIEBGaXJtZm94
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/firmfox/Proxify
+#profile-web-page-url: https://github.com/firmfox/Proxify
+vmess://ewogICJhZGQiOiAiNDYuMzEuNzcuNCIsCiAgImFpZCI6ICIwIiwKICAiZW5jcnlwdGlvbiI6ICJhdXRvIiwKICAiaG9zdCI6ICJkaWdpa2FsYS5jb20iLAogICJpZCI6ICJmMDRhYjA4OS0wNzYwLTQ5M2UtYjFjZi1jNWM0MjA4Y2RkOTIiLAogICJuZXQiOiAidGNwIiwKICAicGF0aCI6ICIvIiwKICAicG9ydCI6ICI0OTM2NyIsCiAgInBzIjogIlvwn4e58J+Ht10gdGVsZWdyYW0gQHBycm9maWxlX3B1cnBsZSIsCiAgInNlY3VyaXR5IjogImF1dG8iLAogICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgInRscyI6ICIiLAogICJ0eXBlIjogImh0dHAiLAogICJ1cmxfZ3JvdXAiOiAidjJyYXkiLAogICJ2IjogIjIiCn0=😉 @V2ray_Custom#[🛜] @Firmfox [85-2527]
+trojan://telegram-id-privatevpns@13.50.135.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#[🛜] @Firmfox [38-1802]
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.226.178:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node16.mxvpn.dev&sid=bbc68cec8bb8d2e3#[🛜] @Firmfox [69-3055]
