@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://5aafc2be-9348-4dec-b896-f4a91253bbca@202.37.33.80:443?path=/id-tksi?ed=2048_/@sil3nt_network&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#[🛜] @Firmfox [20-4705]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#[🛜] @Firmfox [95-7430]
-trojan://FH72359861@54.238.168.66:443?sni=diverse-hawk.rooster465.autos&allowInsecure=1&type=tcp#[🛜] @Firmfox [59-7888]
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.140.9:22222?security=none&type=tcp&encryption=none#[🛜] @Firmfox [83-6857]
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&fp=&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&security=reality&serviceName=api.v1.StreamService&sid=1ea59febb8d4fc8e&sni=api.noneok.com&type=grpc#[🛜] @Firmfox [78-5731]
-vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?encryption=none&security=tls&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&fp=chrome&type=ws&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&path=/data/list/out.php?ed=2560#[🛜] @Firmfox [88-8469]
-vless://45c595fa-988f-11f1-8024-54db13ea7d40@144.172.91.227:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=n25FmewpAEsvLl9Vr0bRFcz044f4IE7orWeWOzu8rwk&flow=xtls-rprx-vision#[🛜] @Firmfox [44-1460]
-vless://31216f81-3139-0021-bac4-646680314264@185.218.194.71:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#[🛜] @Firmfox [87-1671]
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?security=none&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp#[🛜] @Firmfox [28-4861]
+trojan://AE62539071@54.244.169.225:443?sni=sharing-duck.rooster465.autos&fp=chrome&type=tcp&path=/#[🛜] @Firmfox [17-7776]
+vless://5aafc2be-9348-4dec-b896-f4a91253bbca@202.37.33.80:443?path=/id-tksi#[🛜] @Firmfox [41-5380]
+trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[🛜] @Firmfox [20-2506]
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#[🛜] @Firmfox [31-4249]
+vless://c07e7a66-fc43-4958-a50b-16d619d754f5@87.107.146.184:15804?security=none&type=tcp&host=host:nasa.gov&headerType=http#[🛜] @Firmfox [14-2182]
