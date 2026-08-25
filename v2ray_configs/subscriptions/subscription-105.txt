@@ -3,13 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://f673af93-a698-4da6-b3de-fdd1b3bf9de8@158.160.149.94:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=raw#[🛜] @Firmfox [29-6437]
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#[🛜] @Firmfox [13-3636]
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&type=ws&security=tls&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&sni=hhlfy.twiladaphne.ndjp.net&insecure=0&allowInsecure=0#[🛜] @Firmfox [14-9575]
-vless://51b7b320-fe34-422c-93fd-feea4f102c25@update.georkup.ir:2050?encryption=none&type=tcp&security=reality&headerType=none&sni=perplexity.ai&fp=chrome&insecure=1&allowInsecure=1&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&sid=f26c8fd2&spx=/a367a68b9348617#[🛜] @Firmfox [81-2471]
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@lastchance.whit3.net:8443?mode=gun&security=reality&encryption=none&pbk=1xq4kMV5MBlwzlXjAI7oFZqtfIPMZfP2_7fTNfjOVjU&fp=chrome&type=grpc&serviceName=lastchance_grpc&sni=lastchance.whit3.net&sid=4b1b942b4dfcfdf8#[🛜] @Firmfox [86-2396]
-vmess://eyJ2IjoiMiIsInBzIjoiR2xvYmFsIPCfjJAgfCBAUmF5ZGlrYWx4IHwgNUQ3MEE4IiwiYWRkIjoieWgxLmZyZWVoMS54eXoiLCJwb3J0IjoiODA4MCIsImlkIjoiZWY4Yzk1NGUtMDE0Zi00YjM2LTgyNzMtOWI1MDg2YWZhYjM0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJpYmxpb2dyYXBoaWMtc3dvcmQtc2VxdWVuY2UtYWR2ZXJ0aXNlcnMudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiZWY4Yzk1NGUtMDE0Zi00YjM2LTgyNzMtOWI1MDg2YWZhYjM0LXZtIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9#[🛜] @Firmfox [55-2661]
-trojan://AE62539071@enough-basilisk.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#[🛜] @Firmfox [79-1481]
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp#[🛜] @Firmfox [22-6665]
-vless://fa48198a-f51d-4a53-fbd3-bcfd4d1b48e1@95.217.137.22:31772?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#[🛜] @Firmfox [53-6396]
-vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#[🛜] @Firmfox [12-5144]
+vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com&note=@FreeOnlineVPN#[🛜] @Firmfox [36-5969]
+vless://0b00bece-21f5-4623-8b47-547923531970@de.kaia.pw:40159?path=%2F&security=none&encryption=none&type=ws#[🛜] @Firmfox [19-4798]
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#[🛜] @Firmfox [28-3279]
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.136:65443#[🛜] @Firmfox [66-6033]
