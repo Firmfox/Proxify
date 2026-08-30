@@ -1,0 +1,7 @@
+#profile-title: base64:U1VCLTE0OSAtIEBGaXJtZm94
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/firmfox/Proxify
+#profile-web-page-url: https://github.com/firmfox/Proxify
+vless://8ee40067-e8f1-431b-8109-21eaa82a7a23@shortline.proxy.rlwy.net:31186?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.RUo28PqrpKdE0tCsbuLu4Y1YUTEwblkpZz68jalpaXI&type=ws#[🛜] @Firmfox [91-8771]
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.24.131:8080?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=none#[🛜] @Firmfox [61-7528]
